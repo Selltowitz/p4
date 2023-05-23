@@ -1,12 +1,12 @@
-# Implementing a very simple P4 "Hello World" Program
+# Implementing the cloning mechanism of P4
 
 ## Introduction
 
-This first P4 program serves as a "Hello World" for the programming language. A "Hello World" output text isn't being generated compared to other programming languages. The code implements the "simplest" forwarding algorithm. Packets which ingress on Port1, will egress on Port2 and vice-versa.
+This P4 program uses the Cloning mechanism of P4. Every ingress = Port1 packet is cloned to Port2.
 
 
 ## Network Topology
-![alt text](https://github.com/Selltowitz/p4/blob/main/Topo-Drawings/Hello-World.png?raw=true)
+![alt text](https://github.com/Selltowitz/p4/blob/main/Topo-Drawings/Simple-Clone.png?raw=true)
 
 ## Relevant Documentation
 
