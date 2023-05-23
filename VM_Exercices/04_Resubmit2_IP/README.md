@@ -8,17 +8,17 @@ This is the second use of Resubmit as mirroring mechanism. Compared to [03_Resub
 - Headers & Ethertypes 
 
 ## !!! Important Disclaimer !!!
-**This p4 code + the network configuration for Mininet won't forward any packet. Broadcast wasn't implemented in this stage but in its successor [Resubmit3-ARP](https://github.com/Selltowitz/p4/tree/main/VM_Exercices/05_Resubmit3-ARP).**
+**This p4 code + the network configuration for Mininet won't forward any packet. Broadcast wasn't implemented in this stage but in its successor [05_Resubmit3-ARP](https://github.com/Selltowitz/p4/tree/main/VM_Exercices/05_Resubmit3-ARP).**
 **It was good practice, but I saved the final working code, net and exercise in its successor :)** 
 
 ## Forwarding algorithm
 - Lookup ipv4 destination address in table
-- set the egress port of table value in ipv4-destination table 
+- set the egress port regarding table value in ipv4-destination table 
 		
 
 
 ## Network Topology
-![alt text](https://github.com/Selltowitz/p4/blob/main/Topo-Drawings/Reusbmit2-ip.png?raw=true)
+![alt text](https://github.com/Selltowitz/p4/blob/main/Topo-Drawings/Resubmit2-ip.png?raw=true)
 
 ## Header implementation
 - Ethernet
