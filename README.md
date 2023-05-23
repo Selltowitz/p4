@@ -1,6 +1,6 @@
 # p4
 ## This repo
-This git repo focuses on [P4 (Programming Protocol-Independent Packet Processors)](https://p4.org/)
+This git repo focuses on [P4_16 (Programming Protocol-Independent Packet Processors)](https://p4.org/)
 
 It is connected to a [research program](https://www.ifaf-berlin.de/projekte/nettraffic-p4/) at the [Hochschule für Technik und Wirtschaft Berlin (HTW Berlin)](https://htw-berlin.de) under [Prof. Dr. Thomas Scheffler](https://github.com/tscheffl) and my own Bachelor thesis "Building a platform to get started with P4".
 
@@ -15,5 +15,18 @@ The documentation for P4_16 and P4Runtime is available [here](https://p4.org/spe
 All excercises in the VM_Exercices folder use the v1model architecture, the documentation for which is available at:
 1. The BMv2 Simple Switch target document accessible [here](https://github.com/p4lang/behavioral-model/blob/master/docs/simple_switch.md) talks mainly about the v1model architecture.
 2. The include file `v1model.p4` has extensive comments and can be accessed [here](https://github.com/p4lang/p4c/blob/master/p4include/v1model.p4).
+
+
+The documentation for Tofino Native Architecture (TNA) is available [here](https://raw.githubusercontent.com/barefootnetworks/Open-Tofino/master/PUBLIC_Tofino-Native-Arch.pdf)
+
+## Thanks
+Thanks to the people @
+- MTI Teleport Munich GmbH
+- HTW Berlin
+- AVM GmbH
+- BISDN
+- Barefootnetworks
+- P4 Language Consortium
+- OpenNetworkFoundation
 
 
