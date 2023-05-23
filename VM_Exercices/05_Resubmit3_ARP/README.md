@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the third use of Resubmit as mirroring mechanism. Compared to [04_Resubmit2-IP](https://github.com/Selltowitz/p4/tree/main/VM_Exercices/04_Resubmit2-IP) following features have been added:
+This is the third use of Resubmit as mirroring mechanism. Compared to [04_Resubmit2-IP](https://github.com/Selltowitz/p4/tree/main/VM_Exercices/04_Resubmit2_IP) following features have been added:
 - Broadcast for forwarding ARPs
 - adapted forwarding and parsing concerning ARPs & Broadcast
 
@@ -16,7 +16,7 @@ This is the third use of Resubmit as mirroring mechanism. Compared to [04_Resubm
 
 
 ## Network Topology
-![alt text](https://github.com/Selltowitz/p4/blob/main/Topo-Drawings/resubmit3-arp.png?raw=true)
+![alt text](https://github.com/Selltowitz/p4/blob/main/Topo-Drawings/Resubmit3-ARP.png?raw=true)
 
 ## Header implementation
 - Ethernet
