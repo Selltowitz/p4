@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This P4 program uses the Cloning mechanism of P4. Every ingress = Port1 packet is cloned to Port3.
+This P4 program uses the Cloning mechanism of P4 and both switches do clone packets. Every ingress packet on switch1 (S1) is cloned to its fourth port which is connected to the second switch S2. This switch is cloning its ingress on Port4 to Port3.
 
 
 ## Network Topology
-![alt text](https://github.com/Selltowitz/p4/blob/main/Topo-Drawings/Simple-Clone.png?raw=true)
+![alt text](https://github.com/Selltowitz/p4/blob/main/Topo-Drawings/Double-Clone.png?raw=true)
 
 ## Relevant Documentation
 
