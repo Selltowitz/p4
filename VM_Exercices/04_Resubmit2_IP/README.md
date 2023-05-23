@@ -12,16 +12,8 @@ This is the second use of Resubmit as mirroring mechanism. Compared to [03_Resub
 **It was good practice, but I saved the final working code, net and exercise in its successor :)** 
 
 ## Forwarding algorithm
-Has the incoming packet been resubmitted already?
-- No
-	- save ingress port in own meta data
-		- meta.mymeta.port = ingress port
-	- resubmit the packet
-- Yes
-	- Forwarding as coded in 'meta.mymeta.port'
-		- In: 1 -> Out: 2
-		- In: 2 -> Out: 1
-		- In: 0 -> Out: 2 (In: 0 = default = every other packet)
+- Lookup ipv4 destination address in table
+- set the egress port of table value in ipv4-destination table 
 		
 
 
