@@ -1,5 +1,5 @@
 # p4
-This git repo focuses on [P4 (Programming Protocol-Independent Packet Processors)] (https://p4.org/)
+This git repo focuses on [P4 (Programming Protocol-Independent Packet Processors)](https://p4.org/)
 
 It is connected to a research program https://www.ifaf-berlin.de/projekte/nettraffic-p4/ at the Hochschule für Technik und Wirtschaft Berlin (HTW Berlin) https://htw-berlin.de under Prof. Dr. Thomas Scheffler https://github.com/tscheffl and my own Bachelor thesis "Building a platform to get started with P4".
 
