@@ -20,7 +20,7 @@ Has the incoming packet been resubmitted already?
 
 
 ## Network Topology
-![alt text](https://github.com/Selltowitz/p4/blob/main/Topo-Drawings/Reusbmit.png?raw=true)
+![alt text](https://github.com/Selltowitz/p4/blob/main/Topo-Drawings/Resubmit.png?raw=true)
 
 ## Header implementation
 no IETF or similar headers have been implemented
