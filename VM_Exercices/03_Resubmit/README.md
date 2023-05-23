@@ -27,4 +27,4 @@ no IETF or similar headers have been implemented
 
 ## Self-declared meta data
 - yes
-- saves ingress port
+- 9bit port number -> saving ingress port for forwarding algorithm

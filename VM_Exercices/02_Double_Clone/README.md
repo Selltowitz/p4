@@ -17,4 +17,5 @@ This P4 program uses the Cloning mechanism of P4 and both switches do clone pack
 no IETF or similar headers have been implemented
 
 ## Self-declared meta data
-no own meta data was declared
+- Yes
+- 8bit counter
