@@ -4,6 +4,7 @@
 
 This first P4 program serves as a "Hello World" for the programming language. A "Hello World" output text isn't being generated compared to other programming languages. The code implements the "simplest" forwarding algorithm. Packets which ingress on Port1, will egress on Port2 and vice-versa.
 
+![alt text](https://github.com/Selltowitz/p4/blob/main/topo-drawings/Hello-World.png?raw=true)
 
 ## Relevant Documentation
 
