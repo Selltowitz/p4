@@ -7,3 +7,9 @@ No headers (Ethernet, IP, ...) are implemented.
 
 ## Network Topology
 ![alt text](https://github.com/Selltowitz/p4/blob/main/Topo-Drawings/Hello-World.png?raw=true)
+
+## Header implementation
+no IETF or similar headers have been implemented
+
+## Self-declared meta data
+no own meta data was declared

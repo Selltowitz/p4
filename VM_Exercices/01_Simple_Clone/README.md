@@ -12,3 +12,9 @@ This P4 program uses the Cloning mechanism of P4. Every ingress = Port1 packet i
 
 ## Network Topology
 ![alt text](https://github.com/Selltowitz/p4/blob/main/Topo-Drawings/Simple-Clone.png?raw=true)
+
+## Header implementation
+no IETF or similar headers have been implemented
+
+## Self-declared meta data
+no own meta data was declared
