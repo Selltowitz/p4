@@ -1,0 +1,7 @@
+{
+  "target": "bmv2",
+  "p4info": "build/clone.p4.p4info.txt",
+  "bmv2_json": "build/clone.json",
+  "table_entries": [
+  ]
+}
