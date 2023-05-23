@@ -16,7 +16,7 @@ This is the third use of Resubmit as mirroring mechanism. Compared to [04_Resubm
 
 
 ## Network Topology
-![alt text](https://github.com/Selltowitz/p4/blob/main/Topo-Drawings/Resubmit3-arp.png?raw=true)
+![alt text](https://github.com/Selltowitz/p4/blob/main/Topo-Drawings/resubmit3-arp.png?raw=true)
 
 ## Header implementation
 - Ethernet
