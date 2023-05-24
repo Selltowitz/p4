@@ -1,4 +1,5 @@
 # P4
+
 ## Description
 This git repo focuses on [P4_16 (Programming Protocol-Independent Packet Processors)](https://p4.org/)
 
@@ -7,6 +8,10 @@ It is connected to a [research program](https://www.ifaf-berlin.de/projekte/nett
 I created 6 exercices on the [P4-VM](https://github.com/p4lang/tutorials) of the P4 Language Consortium using Mininet.
 3 of those exercices have been successfully ported to real hardware (Edgecore Wedge 100BF-32X with Intel Tofino1). The main focus of those exercices is getting an "easier" start into the programming language and will be explained the exercice folder.
 
+## Under construction
+Confidentiality checks for my bachelor thesis were approved at the end of May 2023, so I firstly wanted to upload my P4 code here.
+Mainly fixing READMEs for every exercice for now and doing my Masters in Information and Communication Engineering at HTW Berlin.
+Feel free to contact me :)
 
 ## Relevant Documentation
 
@@ -30,5 +35,6 @@ Thanks to the people @
 - OpenNetworkFoundation
 - IETF
 - Linux
+- Wikipedia
 
 
