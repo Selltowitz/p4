@@ -1,0 +1,7 @@
+*.log
+*.pcap
+*.swp
+*.pcapng
+*.bkp
+*.dtmp
+zlog-cfg-cur
