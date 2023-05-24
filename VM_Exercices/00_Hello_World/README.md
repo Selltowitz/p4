@@ -13,3 +13,7 @@ no IETF or similar headers have been implemented
 
 ## Self-declared meta data
 no own meta data was declared
+
+## Related hardware code
+I wrote another version of this p4 code. The code was ported to be executed on a Intel Tofino1 in an Edgecore Wedge 100BF-32X switch.
+You can view the code [here](https://github.com/Selltowitz/p4/tree/main/Tofino_Exercices/01_Hello_World)
