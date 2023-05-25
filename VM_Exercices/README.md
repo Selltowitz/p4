@@ -1,13 +1,16 @@
-# Exercices on a VM
+# Exercises on the P4-VM with Mininet (virtual network)
 
 ## Description
 This part of the git repo focuses on exercices which can be done in the [P4-VM](https://github.com/p4lang/tutorials). Please install it on your machine or at least mininet (don't know whether Mininet is enough, haven't tried yet).
 
 
-The main focus of those exercices is getting an "easier" start into the programming language and will be explained in the associated exercice folder. The code will evolve from exercice to exercice in complexity and implemented stuff (e.g. protocol headers, use of tables, more dynamic forwarding, ...).
+The main focus of those exercices is getting an "easier" start into the programming language P4 and will be explained in the associated exercice folder. The code will evolve from exercice to exercice in complexity and implemented stuff (e.g. protocol headers, use of tables, more dynamic forwarding, ...).
+Following the numerical order of those exercises is recommended.
+Maybe the people at P4 want to integrate some of those exercises in their built-in exercise-folder in the VM.
+
 
 ## Connection with Bachelor Thesis (german)
-A introduction to P4 is given in my [Bachelor Thesis](https://github.com/Selltowitz/p4/blob/main/Aufbau_einer_Lernplattform_zur_Programmiersprache_P4.pdf) which firstly explains the most important things for getting into P4 (parser, headers, data types, actions, control blocks, tables). There are code examples in the thesis (general use with parameters and limitations + specific use).
+A introduction to P4 is given in my [Bachelor Thesis](https://github.com/Selltowitz/p4/blob/main/Aufbau_einer_Lernplattform_zur_Programmiersprache_P4.pdf) which firstly explains the most important things for getting into P4 (parser, headers, data types, actions, control blocks, tables, ...). There are code examples in the thesis (general use with parameters and limitations + specific use).
 The installation of the VM and all exercices here are explained as well.
 
 ## Relevant Documentation
