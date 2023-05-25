@@ -29,6 +29,22 @@ Because of this two implementations this code is forwarding packets as expected 
 ## Tables
 - IPv4 Destination Table -> Longest Prefix Match (LPM)
 
+## Parser states
+- Parse Ethernet
+- Parse IPv4
+- ARP Forward
+
+## Multicast/Broadcast
+- Multicast-Group = 1
+- acts like Broadcast
+- all 3 Hosts are in MC-GRP 1
+
+## Checksum Computation
+is done
+
+## Deparser
+active
+
 ## Self-declared meta data
 - yes
 - 9bit port number -> saving ingress port for forwarding algorithm
