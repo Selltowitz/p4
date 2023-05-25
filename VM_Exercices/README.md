@@ -12,6 +12,7 @@ Maybe the people at P4 want to integrate some of those exercises in their built-
 ## Connection with Bachelor Thesis (german)
 A introduction to P4 is given in my [Bachelor Thesis](https://github.com/Selltowitz/p4/blob/main/Aufbau_einer_Lernplattform_zur_Programmiersprache_P4.pdf) which firstly explains the most important things for getting into P4 (parser, headers, data types, actions, control blocks, tables, ...). There are code examples in the thesis (general use with parameters and limitations + specific use).
 The installation of the VM and all exercices here are explained as well.
+A summary of those 6 exercises is already documented in german on Prof. Dr. Schefflers [IPv6 Wiki](https://wiki.ipv6lab.f1.htw-berlin.de/ne/sdn/p4/p4).
 
 ## Relevant Documentation
 
