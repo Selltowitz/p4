@@ -6,7 +6,7 @@ This is the third use of Resubmit as mirroring mechanism. Compared to [04_Resubm
 - Broadcast for forwarding ARPs
 - adapted forwarding and parsing concerning ARPs & Broadcast
 
-
+Because of this two implementations this code is forwarding packets as expected compared to [04_Resubmit2-IP](https://github.com/Selltowitz/p4/tree/main/VM_Exercices/04_Resubmit2_IP).
 
 
 ## Forwarding algorithm
