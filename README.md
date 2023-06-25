@@ -3,10 +3,10 @@
 ## Description
 This git repo focuses on [P4_16 (Programming Protocol-Independent Packet Processors)](https://p4.org/).
 
-It is connected to a [research program](https://www.ifaf-berlin.de/projekte/nettraffic-p4/) at the [Hochschule für Technik und Wirtschaft Berlin (HTW Berlin)](https://htw-berlin.de) by [Prof. Dr. Thomas Scheffler](https://github.com/tscheffl) and my own Bachelor thesis ["Aufbau einer Lernplattform zur Programmiersprache P4"](https://github.com/Selltowitz/p4/blob/main/Aufbau_einer_Lernplattform_zur_Programmiersprache_P4.pdf).
+It is connected to a [research program](https://www.ifaf-berlin.de/projekte/nettraffic-p4/) at the [Hochschule für Technik und Wirtschaft Berlin (HTW Berlin)](https://htw-berlin.de) by [Prof. Dr. Thomas Scheffler](https://github.com/tscheffl) and my own Bachelor thesis ["Aufbau einer Lernplattform zur Programmiersprache P4"](https://github.com/Selltowitz/p4/blob/main/Aufbau_einer_Lernplattform_zur_Programmiersprache_P4.pdf). An english translation will follow.
 
 I created 6 exercices on the [P4-VM](https://github.com/p4lang/tutorials) of the P4 Language Consortium using Mininet.
-3 of those exercices have been successfully ported to real hardware (Edgecore Wedge 100BF-32X with Intel Tofino1). The main focus of those exercices is getting an "easier" start into the programming language and will be explained in the associated exercice folder.
+3 of those exercices have been successfully ported to real hardware (Edgecore Wedge 100BF-32X with Intel Tofino1). The main focus of those exercices is getting an "easier" start into the programming language and will be explained in the associated exercice folder or the thesis.
 
 ## Under construction
 Confidentiality checks for my bachelor thesis were approved at the end of May 2023, so I firstly wanted to upload my P4 code here.
@@ -22,7 +22,7 @@ All excercises in the VM_Exercices folder use the v1model architecture, the docu
 2. The include file `v1model.p4` has extensive comments and can be accessed [here](https://github.com/p4lang/p4c/blob/master/p4include/v1model.p4).
 
 
-The documentation for Tofino Native Architecture (TNA) is available [here](https://raw.githubusercontent.com/barefootnetworks/Open-Tofino/master/PUBLIC_Tofino-Native-Arch.pdf)
+The documentation for Tofino Native Architecture (TNA) is available [here](https://raw.githubusercontent.com/barefootnetworks/Open-Tofino/master/PUBLIC_Tofino-Native-Arch.pdf).
 
 ## Thanks
 Thanks to the people @
@@ -36,5 +36,6 @@ Thanks to the people @
 - IETF
 - Linux
 - Wikipedia
+- Family and Friends <3
 
 
