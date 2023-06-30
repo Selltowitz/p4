@@ -13,6 +13,9 @@ Confidentiality checks for my bachelor thesis were approved at the end of May 20
 Mainly fixing READMEs for every exercice for now and doing my Masters in Information and Communication Engineering at HTW Berlin.
 Feel free to contact me :)
 
+## Papers
+Out of the research program we did the following [paper](https://www.researchgate.net/publication/371877786_Using_P4-INT_on_Tofino_for_measuring_device_performance_characteristics_in_a_network_lab), which was presented at [WueWoWas'23](https://lsinfo3.github.io/WueWoWAS2023/).
+
 ## Relevant Documentation
 
 The documentation for P4_16 and P4Runtime is available [here](https://p4.org/specs/)
