@@ -3,7 +3,7 @@
 ## Description
 This git repo focuses on [P4_16 (Programming Protocol-Independent Packet Processors)](https://p4.org/).
 
-It is connected to a [research program](https://www.ifaf-berlin.de/projekte/nettraffic-p4/) at the [Hochschule für Technik und Wirtschaft Berlin (HTW Berlin)](https://htw-berlin.de) by [Prof. Dr. Thomas Scheffler](https://github.com/tscheffl) and my own Bachelor thesis ["Aufbau einer Lernplattform zur Programmiersprache P4"](https://github.com/Selltowitz/p4/blob/main/Aufbau_einer_Lernplattform_zur_Programmiersprache_P4.pdf). An english translation will follow.
+It is connected to a [research program](https://www.ifaf-berlin.de/projekte/nettraffic-p4/) at the [Hochschule für Technik und Wirtschaft Berlin (HTW Berlin)](https://htw-berlin.de) by [Prof. Dr. Thomas Scheffler](https://github.com/tscheffl) and my own Bachelor thesis ["Aufbau einer Lernplattform zur Programmiersprache P4"](https://github.com/Selltowitz/p4/blob/main/Aufbau_einer_Lernplattform_zur_Programmiersprache_P4.pdf). An english translation can be found here: ["Building a training platform for the programming language P4"](https://github.com/Selltowitz/p4/blob/main/Building_a_training_plattform_for_the_programming_language_P4.pdf)
 
 I created 6 exercices on the [P4-VM](https://github.com/p4lang/tutorials) of the P4 Language Consortium using Mininet.
 3 of those exercices have been successfully ported to real hardware (Edgecore Wedge 100BF-32X with Intel Tofino1). The main focus of those exercices is getting an "easier" start into the programming language and will be explained in the associated exercice folder or the thesis.
