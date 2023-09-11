@@ -4,9 +4,11 @@
 This git repo focuses on [P4_16 (Programming Protocol-Independent Packet Processors)](https://p4.org/).
 
 It is connected to a [research program](https://www.ifaf-berlin.de/projekte/nettraffic-p4/) at the [Hochschule für Technik und Wirtschaft Berlin (HTW Berlin)](https://htw-berlin.de) by [Prof. Dr. Thomas Scheffler](https://github.com/tscheffl) and my own Bachelor thesis ["Aufbau einer Lernplattform zur Programmiersprache P4"](https://github.com/Selltowitz/p4/blob/main/Aufbau_einer_Lernplattform_zur_Programmiersprache_P4.pdf). An english translation can be found here: ["Building a training platform for the programming language P4"](https://github.com/Selltowitz/p4/blob/main/Building_a_training_plattform_for_the_programming_language_P4.pdf)
-If you wanna cite any of those 2 here are the links to the ResearchGate uploads incl. DOI number:
-[German version](https://www.researchgate.net/publication/371985470_Bachelor_Thesis_Aufbau_einer_Lernplattform_zur_Programmiersprache_P4_Building_a_training_platform_for_the_programming_language_P4?_sg%5B0%5D=FehitWY4qgoFO5dKxmeKDfzX9k7NEYa785VZbD3U6dd0gatUgS_H0F8Tdc4Gg6QWeRrFR0yNTTruQlYfaVFQvpQp2NE0cHP0CTNc1HDw.zExKtDydyWf-We7jP8KwkdoYDDZhM2TDmxZSTeqn4z4FNNiMAE3-Pb6VWu5dk7DfVf4LLhbN1Pud9Mdjg8j9Rg)
-[English version](https://www.researchgate.net/publication/373829255_Bachelor_Thesis_Building_a_training_platform_for_the_programming_language_P4?_sg%5B0%5D=wS6YmlhTSLGP2nmR4BXmdxdRKrEr0L27KP-V8bP9vNHEVvXZID2bI_f2jL3bku2aV7bqzmCUmKtA3o-b4bwjrRyo5XedGv7YbBI8Vh9F.--QafriQLKzVbnhJ3MrqTdUYDbeQEgSNTXOuzqd5unDJ7MsqdqWMwDeQvGxZmpMFuIzSJvwsJ24ch59qfIs_1g)
+If you wanna cite any of those 2 here are the links to the ResearchGate uploads incl. DOI number:  
+[German version](https://www.researchgate.net/publication/371985470_Bachelor_Thesis_Aufbau_einer_Lernplattform_zur_Programmiersprache_P4_Building_a_training_platform_for_the_programming_language_P4?_sg%5B0%5D=FehitWY4qgoFO5dKxmeKDfzX9k7NEYa785VZbD3U6dd0gatUgS_H0F8Tdc4Gg6QWeRrFR0yNTTruQlYfaVFQvpQp2NE0cHP0CTNc1HDw.zExKtDydyWf-We7jP8KwkdoYDDZhM2TDmxZSTeqn4z4FNNiMAE3-Pb6VWu5dk7DfVf4LLhbN1Pud9Mdjg8j9Rg)  
+
+[English version](https://www.researchgate.net/publication/373829255_Bachelor_Thesis_Building_a_training_platform_for_the_programming_language_P4?_sg%5B0%5D=wS6YmlhTSLGP2nmR4BXmdxdRKrEr0L27KP-V8bP9vNHEVvXZID2bI_f2jL3bku2aV7bqzmCUmKtA3o-b4bwjrRyo5XedGv7YbBI8Vh9F.--QafriQLKzVbnhJ3MrqTdUYDbeQEgSNTXOuzqd5unDJ7MsqdqWMwDeQvGxZmpMFuIzSJvwsJ24ch59qfIs_1g)  
+
 I created 6 exercices on the [P4-VM](https://github.com/p4lang/tutorials) of the P4 Language Consortium using Mininet.
 3 of those exercices have been successfully ported to real hardware (Edgecore Wedge 100BF-32X with Intel Tofino1). The main focus of those exercices is getting an "easier" start into the programming language and will be explained in the associated exercice folder or the thesis.
 
